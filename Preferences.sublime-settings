@@ -1,0 +1,35 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_line": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"db.*",
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"itg_small_tabs": true,
+	"theme": "itg.flat.dark.sublime-theme"
+}

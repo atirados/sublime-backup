@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"Git",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Package Control",
+		"SFTP",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-javac",
+		"Theme - itg.flat"
+	]
+}
